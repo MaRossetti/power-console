@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.marossetti.powerconsole.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.marossetti.powerconsole.MyBundle
 
 class MyProjectService(project: Project) {
 

@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.marossetti.powerconsole.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.marossetti.powerconsole.MyBundle
 
 class MyApplicationService {
 
